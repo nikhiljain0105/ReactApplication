@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14899" started-at="2021-04-17T12:47:54Z" finished-at="2021-04-17T12:48:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14899" started-at="2021-04-17T12:47:54Z" finished-at="2021-04-17T12:48:09Z">
+      <class name="testCases.ReactApplication">
+        <test-method status="PASS" signature="getTestDataFromExcel()[pri:0, instance:testCases.ReactApplication@239963d8]" name="getTestDataFromExcel" is-config="true" duration-ms="924" started-at="2021-04-17T12:47:53Z" finished-at="2021-04-17T12:47:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestDataFromExcel -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:testCases.ReactApplication@239963d8]" name="startTest" is-config="true" duration-ms="105" started-at="2021-04-17T12:47:54Z" finished-at="2021-04-17T12:47:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="createExtentReport(org.testng.ITestResult)[pri:0, instance:testCases.ReactApplication@239963d8]" name="createExtentReport" is-config="true" duration-ms="5" started-at="2021-04-17T12:47:54Z" finished-at="2021-04-17T12:47:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ReactApplicationSignUpAndSetProfilePic status=SUCCESS method=ReactApplication.ReactApplicationSignUpAndSetProfilePic()[pri:0, instance:testCases.ReactApplication@239963d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createExtentReport -->
+        <test-method status="PASS" signature="getDriverInstance()[pri:0, instance:testCases.ReactApplication@239963d8]" name="getDriverInstance" is-config="true" duration-ms="2501" started-at="2021-04-17T12:47:54Z" finished-at="2021-04-17T12:47:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriverInstance -->
+        <test-method status="PASS" signature="ReactApplicationSignUpAndSetProfilePic()[pri:0, instance:testCases.ReactApplication@239963d8]" name="ReactApplicationSignUpAndSetProfilePic" duration-ms="11403" started-at="2021-04-17T12:47:57Z" finished-at="2021-04-17T12:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReactApplicationSignUpAndSetProfilePic -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:testCases.ReactApplication@239963d8]" name="CloseBrowser" is-config="true" duration-ms="965" started-at="2021-04-17T12:48:08Z" finished-at="2021-04-17T12:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:testCases.ReactApplication@239963d8]" name="getResult" is-config="true" duration-ms="6" started-at="2021-04-17T12:48:09Z" finished-at="2021-04-17T12:48:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ReactApplicationSignUpAndSetProfilePic status=SUCCESS method=ReactApplication.ReactApplicationSignUpAndSetProfilePic()[pri:0, instance:testCases.ReactApplication@239963d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:testCases.ReactApplication@239963d8]" name="endTest" is-config="true" duration-ms="3276" started-at="2021-04-17T12:48:09Z" finished-at="2021-04-17T12:48:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- testCases.ReactApplication -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
